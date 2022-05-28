@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+body{
+    background: #acb6e5;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #86fde8, #acb6e5);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #86fde8, #acb6e5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+p{
+    color: red;
+    /* letter-spacing: 1px; */
+    font-size: 25px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+span{
+    /* letter-spacing: 1px; */
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+}
+#mobilenet{
+    /* letter-spacing: 2px; */
+    font-size: 20px;
+}
+.bottom{
+    color: red;
+    position: bottom;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    /* font-family: 'Roboto Slab', serif; */
+    font-family: 'Varela Round', sans-serif;
+}
+.img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+}
+b{
+    color: purple;
+}
+.first,.second{
+    /* font-family: 'Lobster', cursive; */
+    font-family: 'Varela Round', sans-serif;
+    background-color: white;
+    border-radius: 10px;
+    line-height: 2;
+    font-size: 17px;
+}
+.test_image_and_result1,.test_image_and_result2,.test_image_and_result3,.test_image_and_result4,.test_image_and_result5,.test_image_and_result6,.test_image_and_result7,.test_image_and_result8,.test_image_and_result9{
+    margin-top: 15px;
+    background: #40E0D0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px grey;
+    width:99%;
+    margin-bottom: 15px;
+    font-family: 'Varela Round', sans-serif;
+}
+.white1,.white2,.white3,.white4,.white5,.white6,.white7,.white8,.white9{
+    color: white;
+    font-family: 'Varela Round', sans-serif;
+}
+span{
+    color: red;
+}
+.google_lens{
+    color: black;
+}
+h4{
+    color: white;
+    font-weight: bold;
+}
+.color-red {
+    color: red;
+}
+.class-green {
+    color:lime;
+}
+.color-yellow{
+    color: yellow;
+}
